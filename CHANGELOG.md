@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.41.0](https://github.com/Koenkk/zigbee2mqtt/compare/1.40.2...1.41.0) (2024-10-02)
+
+
+### Features
+
+* Add `throttle` option for devices ([#24122](https://github.com/Koenkk/zigbee2mqtt/issues/24122)) ([17ac9cf](https://github.com/Koenkk/zigbee2mqtt/commit/17ac9cf8e777dfa4b86066650f3c6b2712b011b6))
+
+
+### Bug Fixes
+
+* **ignore:** update zigbee-herdsman-converters to 20.22.0 ([#24186](https://github.com/Koenkk/zigbee2mqtt/issues/24186)) ([e5fac76](https://github.com/Koenkk/zigbee2mqtt/commit/e5fac76060b6cb9e762584b204fff69c8f68f3cf))
+
 ## [1.40.2](https://github.com/Koenkk/zigbee2mqtt/compare/1.40.1...1.40.2) (2024-10-01)
 
 
